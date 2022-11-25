@@ -1,0 +1,17 @@
+[
+  {
+    "address": "0xb6ed7644c69416d67b522e20bc294a9a9b405b31",
+    "optimismWallet": "0x02F19b7465c4AfF7F857fF9985e1FDfBA93c6735",
+    "ratePerDay": 8
+  },
+  {
+    "address": "0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9",
+    "optimismWallet": "",
+    "ratePerDay": 8
+  },
+  {
+    "address": "0x2b95a1dcc3d405535f9ed33c219ab38e8d7e0884",
+    "optimismWallet": "",
+    "ratePerDay": 8
+  }
+]
